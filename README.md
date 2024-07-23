@@ -21,6 +21,10 @@ Controle de Tentativas:
 - Clone ou baixe os arquivos do projeto.
 - Abra o arquivo index.html em seu navegador web.
 
+  ou
+
+https://numero-secreto-java-script--bay.vercel.app/
+
 ### Instruções:
 
 Insira um número no campo disponível e pressione o botão para enviar sua tentativa.
